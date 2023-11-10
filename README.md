@@ -1,6 +1,6 @@
 ### Olá! Sou o Marcos 👋
 - 🔭 Momentaneamente desempregado.
-- 🌱 Afirmando minhas bases no back-end. No momento estou estudando: Git e Github
+- 🌱 Afirmando minhas bases no back-end. No momento estou estudando: JavaScript
 - 📫 Caso haja interesse me contate em contatomarcosrene@gmail.com
 ##
 <div style="display: inline_block"><br>
