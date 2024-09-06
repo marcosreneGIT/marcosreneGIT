@@ -1,7 +1,7 @@
 ### Olá! Sou o Marcos 👋
 - 🔭 Momentaneamente desempregado.
 - 🌱 Afirmando minhas bases no back-end. No momento estou estudando: Python
-- 📫 Caso haja interesse me contate em dev.marcosrene@gmail.com
+- 📫 Caso haja interesse, me contate em dev.marcosrene@gmail.com
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="icone-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
