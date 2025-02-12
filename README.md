@@ -81,8 +81,6 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
-    width="200"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estatísticas&locale=pt-br" 
   />
@@ -90,8 +88,6 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
-      width="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 
