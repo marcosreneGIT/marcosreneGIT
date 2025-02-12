@@ -1,6 +1,6 @@
 # Marcos Renê 
 
-**Desenvolvedor Back-End**  
+**Desenvolvedor back-end**
 
 🔍 **Em busca de novas oportunidades.**  
 🎓 **Cursando Análise e Desenvolvimento de Sistemas** – FAM.  
