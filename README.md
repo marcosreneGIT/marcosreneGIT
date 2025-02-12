@@ -72,13 +72,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
+#
 
 <br/>
 <br/>
-
-# 
-
 <p>
   <img 
     align="left" 
@@ -96,7 +93,7 @@
   />
 
 </p> 
-
+#
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake-dark.svg">
