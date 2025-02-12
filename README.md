@@ -72,10 +72,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<br/>
+
 #
 
-<br/>
-<br/>
 <p>
   <img 
     align="left" 
@@ -91,6 +91,9 @@
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
+<br/>
+
+#
 
 </p> 
 #
