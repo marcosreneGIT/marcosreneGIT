@@ -1,101 +1,96 @@
 # Marcos Renê 
 
-**`Desenvolvedor back-end`**
+**Desenvolvedor back-end**
 
-🔍 **Em busca de novas oportunidades**  
-🎓 **Cursando Análise e Desenvolvimento de Sistemas** – FAM  
-💻 **Estudando Python de forma autodidata**  
-📧 **Contato profissional:** [dev.marcosrene@gmail.com](mailto:dev.marcosrene@gmail.com)  
+🔍 **Em busca de novas oportunidades.**  
+🎓 **Cursando Análise e Desenvolvimento de Sistemas** – FAM.  
+💻 **Estudando Python de forma autodidata.**  
+📧 **Contato profissional:** dev.marcosrene@gmail.com  
 
 ---
-
-### Tecnologias
-
-<div>
-  <img 
-    align="center" 
+<img 
+    align="left" 
     alt="Python"
     title="Python"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  <img 
-    align="center" 
+/>
+<img 
+    align="left" 
     alt="Django"
     title="Django"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
-  />
-  <img 
-    align="center" 
-    alt="Node.js"
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
     title="Node.js"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-  />
-  <img 
-    align="center" 
+/>
+<img 
+    align="left" 
     alt="MySQL"
     title="MySQL"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-  />
-  <img 
-    align="center" 
+/>
+<img 
+    align="left" 
     alt="Git"
     title="Git"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-    align="center" 
+/>
+<img 
+    align="left" 
     alt="JavaScript"
     title="JavaScript"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-    align="center" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
-    align="center" 
+/>
+<img 
+    align="left" 
     alt="CSS"
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-</div>
+/>
 
 <br/>
 <br/>
 
-### Estatísticas GitHub
-
-<div>
+<p>
+<p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estatísticas&locale=pt-br" 
   />
 
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="175" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="175" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
-</div>
+
+</p>
