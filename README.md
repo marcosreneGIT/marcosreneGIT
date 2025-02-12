@@ -8,10 +8,6 @@
 📧 **Contato profissional:** dev.marcosrene@gmail.com  
 
 ---
-
-## 🖥️ Linguagens e Tecnologias
-
-
 <img 
     align="left" 
     alt="Python"
