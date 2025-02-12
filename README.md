@@ -90,7 +90,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrenGIT&theme=github&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=github&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
