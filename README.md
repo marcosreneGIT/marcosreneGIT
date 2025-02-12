@@ -75,36 +75,14 @@
 
 <br/>
 <br/>
----
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="400" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-### 📅 Contribuições
-
-<img src="https://github-readme-calendar.vercel.app/api?username=marcosreneGIT&locale=pt-br" />
-
-### 📚 Repositórios Populares
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/marcosreneGIT)
-
-### ⭐ Estrelas no GitHub
-
-[![Stargazers repo](https://img.shields.io/github/stars/marcosreneGIT?style=social)](https://github.com/marcosreneGIT)
-
-### 🚀 Atividade no GitHub
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=marcosreneGIT&theme=react&hide_border=true" />
-
-### 📈 Projetos em Andamento
-
-![Projetos em andamento](https://img.shields.io/badge/Projeto%20X-%5C%23333.svg?style=flat&logo=github&logoColor=white)
-
-
 
 
