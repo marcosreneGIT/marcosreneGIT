@@ -83,14 +83,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=githubdark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&custom_title=Estatísticas" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=githubdark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
