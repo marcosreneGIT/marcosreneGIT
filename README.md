@@ -79,7 +79,7 @@
 <p>
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="165" 
     style="padding-right: 10px;" 
@@ -87,7 +87,7 @@
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="165" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
