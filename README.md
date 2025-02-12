@@ -83,7 +83,7 @@
     alt="GitHub Stats" 
     height="175" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estatísticas&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=dark&include_all_commits=true&custom_title=**Estatísticas**&locale=pt-br" 
   />
 
 <img 
