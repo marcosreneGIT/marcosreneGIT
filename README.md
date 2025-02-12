@@ -76,6 +76,7 @@
 
 #
 
+<br/>
 <p>
   <img 
     align="left" 
@@ -94,9 +95,6 @@
 
 
 </p> 
-<br/>
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake-dark.svg">
