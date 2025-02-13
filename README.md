@@ -7,7 +7,8 @@
 💻 **Estudando Python de forma autodidata.**  
 📧 **Contato profissional:** dev.marcosrene@gmail.com  
 
----
+--- 
+
 <img 
     align="left" 
     alt="Python"
@@ -74,20 +75,16 @@
 />
 <br/>
 
-#
-
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estatísticas&locale=pt-br" 
   />
 <img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="140" 
+      align="left" 
+      alt="GitHub Stats"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 
