@@ -84,12 +84,8 @@
     style="padding: 7px;" 
     src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&show_icons=true&theme=dark&include_all_commits=true&custom_title=Estatísticas&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      style="padding: 7px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
-  />
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosreneGIT&layout=compact&theme=dark&custom_title=Linguagens&langs_count=9)
 
 
 </p> 
