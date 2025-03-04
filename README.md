@@ -78,16 +78,15 @@
 #
 
 <p>
-  
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosreneGIT&layout=compact&theme=dark&custom_title=Linguagens&langs_count=9)
+    
    <img 
       align="left" 
       alt="GitHub Stats" 
       style="padding: 7px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosreneGIT&layout=compact&theme=dark&custom_title=Linguagens&langs_count=9)
-
 
 </p> 
 
