@@ -79,20 +79,22 @@
 
 <p>
     
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      style="padding: 7px;" 
-      src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&layout=compact&theme=dark&custom_title=Estatísticas&langs_count=9"
-  />
-    
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      style="padding: 7px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
-  /> 
-  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&theme=dark&custom_title=Estatísticas&show_icons=true&count_private=true" height="200px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" height="200px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 </p> 
 
 <br/>
