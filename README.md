@@ -77,14 +77,17 @@
 
 ---
 
+
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&theme=dark&custom_title=Estatísticas&show_icons=true&count_private=true&card_width=437"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&langs_count=9&custom_title=Linguagens&card_width=437"/>
-  </div>
+    <a>
+      <img
+          align="center" src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&theme=dark&custom_title=Estatísticas&show_icons=true&count_private=true&" 
+      />
+    </a>    <a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&langs_count=9&custom_title=Linguagens" />
+    </a>
 </div>
+
 
 
 
