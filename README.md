@@ -83,10 +83,12 @@
       <img
           align="center" src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&theme=dark&custom_title=Estatísticas&show_icons=true&count_private=true&" 
       />
-    </a>    <a>
+    </a>ㅤㅤ<a>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&langs_count=9&custom_title=Linguagens" />
     </a>
 </div>
+
+
 
 
 
