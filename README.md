@@ -7,7 +7,7 @@
 💻 **Estudando Python de forma autodidata.**  
 📧 **Contato profissional:** dev.marcosrene@gmail.com  
 
----
+#
 
 <img 
     align="left" 
@@ -75,17 +75,15 @@
 />
 <br/>
 
-#
+---
 
-<p>
-    
 <div align="center">
-  <table style="border: none; border-collapse: collapse; padding: 0; margin: 0;">
+  <table style="border-collapse: collapse; border-spacing: 0;">
     <tr>
-      <td style="padding: 0; border: none;">
+      <td style="padding-right: 20px; border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=marcosreneGIT&theme=dark&custom_title=Estatísticas&show_icons=true&count_private=true" height="200px"/>
       </td>
-      <td style="padding: 0; border: none;">
+      <td style="vertical-align: middle; border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosreneGIT&theme=dark&layout=compact&langs_count=9&custom_title=Linguagens" height="130px"/>
       </td>
     </tr>
@@ -94,14 +92,14 @@
 
 
 
-
-
-</p> 
-
 <br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosreneGIT/marcosreneGIT/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+
