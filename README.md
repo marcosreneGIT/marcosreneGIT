@@ -19,6 +19,14 @@
 />
 <img 
     align="left" 
+    alt="C"
+    title="C"
+    width="30px" 
+    style="padding: 1px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Django"
     title="Django"
     width="30px" 
