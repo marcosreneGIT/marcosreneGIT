@@ -13,7 +13,7 @@
     align="left" 
     alt="Python"
     title="Python"
-    width="50px" 
+    width="40px" 
     style="padding: 2px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -21,7 +21,7 @@
     align="left" 
     alt="Django"
     title="Django"
-    width="50px" 
+    width="40px" 
     style="padding: 2px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
 />
@@ -29,7 +29,7 @@
     align="left" 
     alt="PostgreSQL"
     title="PostgreSQL"
-    width="50px" 
+    width="40px" 
     style="padding: 2px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
 />
