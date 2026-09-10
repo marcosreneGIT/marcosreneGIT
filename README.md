@@ -13,24 +13,24 @@
     align="left" 
     alt="Python"
     title="Python"
-    width="40px" 
-    style="padding: 2px;" 
+    width="55px" 
+    style="padding: 1px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
     alt="Django"
     title="Django"
-    width="40px" 
-    style="padding: 2px;" 
+    width="55px" 
+    style="padding: 1px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 
     alt="PostgreSQL"
     title="PostgreSQL"
-    width="40px" 
-    style="padding: 2px;" 
+    width="55px" 
+    style="padding: 1px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
 />
 <br/>
