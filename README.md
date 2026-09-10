@@ -4,7 +4,7 @@
 
 🔍 **Em busca de novas oportunidades.**  
 🎓 **Cursando Análise e Desenvolvimento de Sistemas** – FAM.  
-💻 **Estudando Python de forma autodidata.**  
+💻 **Estudando Python, Django e PostgreSQL de forma autodidata.**  
 📧 **Contato profissional:** dev.marcosrene@gmail.com  
 
 #
