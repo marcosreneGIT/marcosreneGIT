@@ -33,7 +33,17 @@
     style="padding: 1px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
 />
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="55px" 
+    style="padding: 1px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
 <br/>
 
+            
+          
 
 
